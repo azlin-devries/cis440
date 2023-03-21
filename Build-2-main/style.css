@@ -10,33 +10,11 @@ header {
     background-size: cover;
 	background-attachment: fixed;
     color: #fff;
-    padding-top: 80px;
-    padding-bottom: 20px;
+    padding-top: 90px;
+    padding-bottom: 40px;
     text-align: center;
 }
-nav {
-    background-color: #eee;
-    padding: 10px;
-    text-align: center;
-}
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-nav ul li {
-    display: inline-block;
-    margin: 0 10px;
-}
-nav ul li a {
-    color: #333;
-    text-decoration: none;
-    padding: 5px;
-}
-nav ul li a:hover {
-    background-color: #333;
-    color: #fff;
-}
+
 main {
     margin: 20px auto;
     max-width: 800px;
