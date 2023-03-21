@@ -1,12 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
 }
 header {
-    background-color: lightblue;
+    background-image: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.4)), url("images/desktop-wallpaper-abstract-light-blue-background-ningzk-v-blue-background-light-blue-background-blue-background-pastel-blue-gradient.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	background-attachment: fixed;
     color: #fff;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
 }
 nav {
